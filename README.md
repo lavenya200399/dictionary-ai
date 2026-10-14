@@ -233,41 +233,9 @@ Open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 To inspect the API, open [http://127.0.0.1:8000/api/docs](http://127.0.0.1:8000/api/docs).
 
-## 🎬 A 90-second demo walkthrough
-
-Use this flow for a recruiter screen share or a short screen recording:
-
-| Time | Show | Say |
-|---|---|---|
-| **0–10 sec** | Home page | “Dictionary is a data exploration workspace that combines profiling, quality checks, visual analytics, and AI-assisted questions.” |
-| **10–25 sec** | Connect data / sample source | “It accepts files, database connections, REST JSON, and static HTML tables.” |
-| **25–40 sec** | Autopilot | “It builds an initial dashboard and flags unusual patterns so users know where to investigate.” |
-| **40–55 sec** | Ask | “I can ask a question in plain English. The LLM proposes SQL, the backend validates it, and the response is grounded in query results.” |
-| **55–70 sec** | Quality Studio | “I can define data contracts and preview cleaning or aggregation before exporting the transformed result.” |
-| **70–82 sec** | Dictionary / Constellation | “The dictionary explains fields, while the constellation view helps users understand relationships across tables.” |
-| **82–90 sec** | Live URL | “The application is deployed as a public demo, with the API key held in server-side environment configuration.” |
-
-**Demo recording:** A video has not been included yet. Record this walkthrough using OBS Studio or Windows Snipping Tool, upload it to YouTube or LinkedIn, then add its URL here.
-
-`[Add demo video URL when recorded]`
-
-## 💼 Portfolio / resume description
-
-**Dictionary — AI-powered Data Exploration & Quality Platform**  
-Built and deployed a full-stack data analytics application using Python, FastAPI, Pandas, SQLAlchemy, SQLGlot, Chart.js, and Groq. Implemented multi-source ingestion, automated profiling and dashboard generation, relationship discovery, data-quality checks, schema contracts, transformation previews, CSV export, and natural-language analytics with guarded read-only SQL execution. Deployed the application on Render with secret configuration managed through environment variables.
-
 ### Skills demonstrated
 
 `Python` · `FastAPI` · `Pandas` · `NumPy` · `SQL` · `SQLAlchemy` · `SQLGlot` · `REST APIs` · `LLM integration` · `Data quality` · `ETL concepts` · `Data visualization` · `GitHub` · `Render`
-
-## 🗺️ Roadmap
-
-- [ ] Add a short hosted product demo video.
-- [ ] Add authentication and per-user workspace isolation.
-- [ ] Add persistent storage for production use.
-- [ ] Add rate limits and usage budgets for public AI requests.
-- [ ] Add automated tests and continuous integration.
-- [ ] Add deployment monitoring and structured error reporting.
 
 ## 👩‍💻 Author
 
