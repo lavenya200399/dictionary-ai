@@ -24,6 +24,10 @@ Dictionary turns disconnected tables and files into a workspace you can **explor
 Connect a database, upload files, import JSON from a REST API, or read tables from a public web page. Dictionary profiles the data, discovers relationships, builds a dashboard, flags unusual patterns, and lets you ask questions in plain English. For AI-assisted answers, it uses Groq-hosted LLMs to help generate a read-only SQL query, runs that query through guarded execution, and explains the returned evidence.
 
 > **Try the live demo:** Open Dictionary, load the built-in **Sample · ride-share** source, then explore **Autopilot**, **Ask**, **Quality**, **Constellation**, and **Dictionary** from the left navigation.
+>
+![Dictionary AI Showcase](<escape>Dictionary AI Data Platform Showcase-1.png</escape>)
+
+
 
 ## 🚀 Live links
 
