@@ -25,7 +25,7 @@ Connect a database, upload files, import JSON from a REST API, or read tables fr
 
 > **Try the live demo:** Open Dictionary, load the built-in **Sample · ride-share** source, then explore **Autopilot**, **Ask**, **Quality**, **Constellation**, and **Dictionary** from the left navigation.
 >
-![Dictionary AI Showcase](<escape>Dictionary AI Data Platform Showcase-1.png</escape>)
+![Dictionary AI Showcase](dictionary-showcase.png)
 
 
 
