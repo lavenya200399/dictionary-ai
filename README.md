@@ -380,25 +380,6 @@ Being upfront about what this is and isn't:
 
 ---
 
-## Roadmap
-
-- [x] Auto-profiling, relationship discovery and lineage tracing
-- [x] Autopilot dashboards, insight radar, live board
-- [x] Guarded SQL gate and Trust Receipts
-- [x] Quality score, data contracts, schema drift, root-cause hints
-- [x] Preview-first transformation engine with CSV export
-- [x] Web-table and REST API ingestion
-- [x] Automated tests and CI
-- [ ] Authentication and per-user workspaces
-- [ ] Postgres-backed state store
-- [ ] Scheduled quality runs with alerts
-- [ ] Export contracts to dbt tests / Great Expectations
-- [ ] PostgreSQL and MySQL integration tests in CI
-- [ ] Streaming answers
-- [ ] Docker image
-
----
-
 ## What I learned
 
 - **Treat the model as untrusted input.** Deterministic rails (parse, allow-list, read-only session) beat asking another model to review the first one.
