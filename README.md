@@ -125,7 +125,7 @@ Point it at a database, upload a spreadsheet, call a REST API or paste a link to
 ## Architecture
 
 <p align="center">
-  <a href="docs/assets/architecture.png"><img src="docs/assets/architecture.svg" alt="Dictionary system architecture (animated)" width="100%"></a>
+  <a href="docs/assets/architecture.png"><img src="docs/assets/architecture.svg" alt="Dictionary system architecture (animated)" width="150%"></a>
 </p>
 <p align="center"><sub>Data flows up from sources to the browser; requests flow down. Click the diagram for the high-resolution PNG.</sub></p>
 
