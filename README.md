@@ -44,13 +44,6 @@ Point it at a database, upload a spreadsheet, call a REST API or paste a link to
 
 > **The idea in one line:** an AI analyst you can actually trust, because it can only read, and because it shows its work.
 
-### At a glance
-
-| | | | |
-|:--:|:--:|:--:|:--:|
-| **7** views | **5** source types | **26** REST endpoints | **26** automated tests |
-| **7**-step SQL safety gate | **177** quality checks on the sample | **0** writes to your data | **0** setup per dataset |
-
 ---
 
 ## Try it in 60 seconds
