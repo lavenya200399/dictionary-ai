@@ -410,7 +410,7 @@ Being upfront about what this is and isn't:
 
 ## Author
 
-**Your Name**: data & AI engineer
+**Lavenya Ravikumar**: data & AI engineer
 [Portfolio](https://your-portfolio.example) · [LinkedIn](https://www.linkedin.com/in/your-handle) · [Email](mailto:you@example.com)
 
 If this project is useful or interesting, a ⭐ helps others find it.
