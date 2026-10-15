@@ -31,18 +31,14 @@
 
 ---
 
-## What is this?
 
-**Dictionary** turns *any* data source into something a business user can understand and trust.
+## 🔍 What is Dictionary?
 
-Point it at a database, upload a spreadsheet, call a REST API or paste a link to a web page with tables. It then:
+**Dictionary** is an AI-powered data analytics platform that transforms raw data into actionable insights through intelligent analysis, automated transformations, and interactive visualizations.
 
-1. **Maps** every table and column and discovers how tables relate, even when no foreign keys exist.
-2. **Builds a dashboard automatically** from whatever schema it finds, with KPIs, trends, breakdowns and an *insight radar*.
-3. **Audits data quality** with a 0 to 100 score, data contracts, schema-drift alerts, root-cause hints and a safe clean-and-export tool.
-4. **Answers questions in plain English**, with a hard safety gate between the AI and your data and a *Trust Receipt* on every answer.
+From natural-language SQL and root-cause investigation to automated data quality checks and data contract validation, Dictionary unifies the entire analytics workflow in one intelligent workspace.
 
-> **The idea in one line:** an AI analyst you can actually trust, because it can only read, and because it shows its work.
+> **Turn data into decisions. Simplify analytics with AI.**
 
 ---
 
