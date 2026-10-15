@@ -1,0 +1,16 @@
+# One-click deploy: https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/dictionary
+services:
+  - type: web
+    name: dictionary
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn server.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.3"
+      - key: GROQ_API_KEY
+        sync: false          # set in the Render dashboard, never commit it
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
